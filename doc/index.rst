@@ -12,7 +12,8 @@ Contents:
    :maxdepth: 2
 
    details
-
+   
+   another detail...
 
 
 Indices and tables
