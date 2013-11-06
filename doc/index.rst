@@ -13,7 +13,7 @@ Contents:
 
    details
    
-   another detail...
+   another detail....
 
 
 Indices and tables
