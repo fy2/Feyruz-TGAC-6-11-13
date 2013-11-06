@@ -11,9 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   details
+   Magic happens
    
-   another detail....
+   
 
 
 Indices and tables
