@@ -12,3 +12,6 @@ def test_sum_bp():
 def test_sum_bp_records():
     rl = [ FakeRecord("A"), FakeRecord("G") ]
     assert sqer.sum_bp_records(rl) == 2
+
+#def test_handle_nondna():
+#    r = FakeRecord('IamNotDna')
